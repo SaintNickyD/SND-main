@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+.yourAccount__Options {
+  margin-top: 50px;
+  color: whitesmoke;
+  border-radius: 800px;
+  border: 5px solid black;
+  font-family: arial whitesmoke;
+  background-color: black;
+}
